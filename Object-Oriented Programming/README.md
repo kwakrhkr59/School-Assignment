@@ -4,7 +4,7 @@
 - Completed game assignments utilizing Swing-based GUI
 
 ## #01_Hunter&Animal
-[![Videl Label](http://img.youtube.com/vi/SFG0jCylDZM/0.jpg)](https://www.youtube.com/watch?v=SFG0jCylDZM "Hunter&Animal")
+[![Videl Label](http://img.youtube.com/vi/SFG0jCylDZM/0.jpg)](https://www.youtube.com/watch?v=SFG0jCylDZM "go to Youtube")
 << Click on the image to watch the video!
 - Command line game
 - Developed using only basic objects and methods
