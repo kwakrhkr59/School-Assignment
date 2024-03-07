@@ -1,5 +1,5 @@
 # Object-Oriented Programming
-- Enrolled in courses during the 2022 Spring Semester (first semester of sophomore year)
+- Completed coursework during the 2022 Spring Semester (first semester of sophomore year)
 - Studied Java's fundamental syntax and object-oriented programming concepts
 - Completed game assignments utilizing Swing-based GUI
 
@@ -12,4 +12,4 @@
 - Success rates of hunting animals vary based on the hunter's weapon and employer, as well as the probability of captured animals escaping
 
 ## #02_Battle
-- play my game by yourself by entering `java -jar battle.jar` in the command prompt!
+- Play my game by yourself by entering `java -jar battle.jar` in the command prompt!
